@@ -1,5 +1,5 @@
 # mikrotik-ssh
-using ssh command for mikrotik multi routers
+script python using ssh commands for mikrotik multi routers
 
 I am a lazy person and this code was created during work to help speed up the process. Its principle is simple
 Create files .txt in root part of script
