@@ -6,4 +6,6 @@ Create files .txt in root part of script
 1. config.txt is used to store CLI.
 2. router.txt is used to store the IP addresses of routers.
 3. login.txt is used to store the user passwords and ports.
+
+
 After running the program, it will generate a result.txt file to record what has been done.
